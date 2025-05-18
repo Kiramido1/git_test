@@ -1,4 +1,10 @@
+<<<<<<< HEAD
 line on master
 line 1 on testing branch
 line 2 on testing branch
 hello world
+=======
+hello everybody!
+hi 
+my name is "moahmed"
+>>>>>>> main
